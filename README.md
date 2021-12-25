@@ -1,2 +1,2 @@
 # DeepClusteringPapers
-Some papers about deep clustering, worth reading.
+Some papers about deep clustering.

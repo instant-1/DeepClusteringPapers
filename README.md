@@ -33,18 +33,6 @@ https://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image
 
 http://proceedings.mlr.press/v95/guo18b/guo18b.pdf
 
-2018 - Spectralnet: Spectral clustering using deep neural networks
-
-https://arxiv.org/pdf/1801.01587.pdf
-
-2019 - Deep spectral clustering using dual autoencoder network
-
-https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Deep_Spectral_Clustering_Using_Dual_Autoencoder_Network_CVPR_2019_paper.pdf
-
-2019 - Deep clustering by gaussian mixture variational autoencoders with graph embedding
-
-https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Deep_Clustering_by_Gaussian_Mixture_Variational_Autoencoders_With_Graph_Embedding_ICCV_2019_paper.pdf
-
 2019 - Deep comprehensive correlation mining for image clustering
 
 https://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Deep_Comprehensive_Correlation_Mining_for_Image_Clustering_ICCV_2019_paper.pdf
@@ -53,7 +41,31 @@ https://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Deep_Comprehensive_Cor
 
 https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Deep_Semantic_Clustering_by_Partition_Confidence_Maximisation_CVPR_2020_paper.pdf
 
+## Spectral Clustering
+
+2018 - Spectralnet: Spectral clustering using deep neural networks
+
+https://arxiv.org/pdf/1801.01587.pdf
+
+2019 - Deep spectral clustering using dual autoencoder network
+
+https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Deep_Spectral_Clustering_Using_Dual_Autoencoder_Network_CVPR_2019_paper.pdf
+
+## Based on GNN
+
+2019 - Deep clustering by gaussian mixture variational autoencoders with graph embedding
+
+https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Deep_Clustering_by_Gaussian_Mixture_Variational_Autoencoders_With_Graph_Embedding_ICCV_2019_paper.pdf
+
+2021 - Learning Hierarchical Graph Neural Networks for Image Clustering
+
+https://openaccess.thecvf.com/content/ICCV2021/papers/Xing_Learning_Hierarchical_Graph_Neural_Networks_for_Image_Clustering_ICCV_2021_paper.pdf
+
 ## Based on Self Supervised Learning
+
+2020 - Gatcluster: Self-supervised gaussian-attention network for image clustering
+
+https://arxiv.org/pdf/2002.11863.pdf
 
 2020 - Deep image clustering with category-style representation
 
@@ -67,6 +79,12 @@ https://arxiv.org/pdf/2005.12320.pdf
 
 https://www.aaai.org/AAAI21Papers/AAAI-1352.LiY.pdf
 
+2021 - Spice: Semantic pseudo-labeling for image clustering
+
+short-version https://arxiv.org/pdf/2103.09382v1.pdf
+
+long-version https://arxiv.org/pdf/2103.09382.pdf
+
 2021 - Nearest Neighbor Matching for Deep Clustering
 
 https://openaccess.thecvf.com/content/CVPR2021/papers/Dang_Nearest_Neighbor_Matching_for_Deep_Clustering_CVPR_2021_paper.pdf
@@ -75,13 +93,14 @@ https://openaccess.thecvf.com/content/CVPR2021/papers/Dang_Nearest_Neighbor_Matc
 
 https://openaccess.thecvf.com/content/CVPR2021/papers/Park_Improving_Unsupervised_Image_Clustering_With_Robust_Learning_CVPR_2021_paper.pdf
 
+2021 - Representation Learning for Clustering via Building Consensus
+
+https://arxiv.org/pdf/2105.01289.pdf
+
+2021 -  MiCE: Mixture of Contrastive Experts for Unsupervised Image Clustering
+
+https://openreview.net/pdf?id=gV3wdEOGy_V
+
 2021 - Clustering-friendly Representation Learning via Instance Discrimination and Feature Decorrelation
 
 https://arxiv.org/pdf/2106.00131.pdf
-
-2021 - Spice: Semantic pseudo-labeling for image clustering
-
-short-version https://arxiv.org/pdf/2103.09382v1.pdf
-
-long-version https://arxiv.org/pdf/2103.09382.pdf
-

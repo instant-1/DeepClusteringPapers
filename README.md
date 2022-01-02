@@ -21,7 +21,7 @@ http://proceedings.mlr.press/v48/xieb16.pdf
 
 http://proceedings.mlr.press/v70/yang17b/yang17b.pdf
 
-**2017 - Deep clustering via joint convolutional autoencoder embedding and relative entropy minimization**
+2017 - Deep clustering via joint convolutional autoencoder embedding and relative entropy minimization
 
 https://openaccess.thecvf.com/content_ICCV_2017/papers/Dizaji_Deep_Clustering_via_ICCV_2017_paper.pdf
 
@@ -59,7 +59,7 @@ https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Deep_Semantic_Clust
 
 https://arxiv.org/pdf/2007.10004.pdf
 
-**2020 - Scan: Learning to classify images without labels**
+2020 - Scan: Learning to classify images without labels
 
 https://arxiv.org/pdf/2005.12320.pdf
 
@@ -79,7 +79,7 @@ https://openaccess.thecvf.com/content/CVPR2021/papers/Park_Improving_Unsupervise
 
 https://arxiv.org/pdf/2106.00131.pdf
 
-**2021 - Spice: Semantic pseudo-labeling for image clustering**
+2021 - Spice: Semantic pseudo-labeling for image clustering
 
 short-version https://arxiv.org/pdf/2103.09382v1.pdf
 

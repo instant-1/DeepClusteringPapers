@@ -13,7 +13,7 @@ https://arxiv.org/pdf/1801.07648.pdf
 
 ## Based on AutoEncoder
 
-**2016 - Unsupervised Deep Embedding for Clustering Analysis**
+2016 - Unsupervised Deep Embedding for Clustering Analysis
 
 http://proceedings.mlr.press/v48/xieb16.pdf
 

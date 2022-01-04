@@ -1,5 +1,14 @@
 # DeepClusteringPapers
-Here are some papers about deep clustering.
+
+Here are some papers, worth reading, about deep clustering. 
+
+Since the first paper in this field in 2016, many methods have been developed around deep autoencoders. In the last two years, the rise of self-supervised learning provided more options for visual feature extraction and also greatly improved performance in deep clustering. 
+
+In addition, there are also many methods in sub-fields such as spectral clustering or subspace clustering, I have not paid attention to it for the time being, so I just list them briefly.
+
+## Reference
+
+https://www.paperswithcode.com/task/image-clustering
 
 ## Survey
 
@@ -41,27 +50,7 @@ https://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Deep_Comprehensive_Cor
 
 https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Deep_Semantic_Clustering_by_Partition_Confidence_Maximisation_CVPR_2020_paper.pdf
 
-## Spectral Clustering
-
-- [ ] 2018 - Spectralnet: Spectral clustering using deep neural networks
-
-https://arxiv.org/pdf/1801.01587.pdf
-
-- [ ] 2019 - Deep spectral clustering using dual autoencoder network
-
-https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Deep_Spectral_Clustering_Using_Dual_Autoencoder_Network_CVPR_2019_paper.pdf
-
-## Based on GNN
-
-- [ ] 2019 - Deep clustering by gaussian mixture variational autoencoders with graph embedding
-
-https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Deep_Clustering_by_Gaussian_Mixture_Variational_Autoencoders_With_Graph_Embedding_ICCV_2019_paper.pdf
-
-- [ ] 2021 - Learning Hierarchical Graph Neural Networks for Image Clustering
-
-https://openaccess.thecvf.com/content/ICCV2021/papers/Xing_Learning_Hierarchical_Graph_Neural_Networks_for_Image_Clustering_ICCV_2021_paper.pdf
-
-## Based on Self Supervised Learning
+## Based on Self-Supervised Learning
 
 - [ ] 2020 - Gatcluster: Self-supervised gaussian-attention network for image clustering
 
@@ -108,3 +97,23 @@ https://arxiv.org/pdf/2106.00131.pdf
 - [ ] 2021 - Exploring Non-Contrastive Representation Learning for Deep Clustering
 
 https://arxiv.org/pdf/2111.11821.pdf
+
+## Deep Spectral Clustering
+
+- [ ] 2018 - Spectralnet: Spectral clustering using deep neural networks
+
+https://arxiv.org/pdf/1801.01587.pdf
+
+- [ ] 2019 - Deep spectral clustering using dual autoencoder network
+
+https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Deep_Spectral_Clustering_Using_Dual_Autoencoder_Network_CVPR_2019_paper.pdf
+
+## Based on GNN
+
+- [ ] 2019 - Deep clustering by gaussian mixture variational autoencoders with graph embedding
+
+https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Deep_Clustering_by_Gaussian_Mixture_Variational_Autoencoders_With_Graph_Embedding_ICCV_2019_paper.pdf
+
+- [ ] 2021 - Learning Hierarchical Graph Neural Networks for Image Clustering
+
+https://openaccess.thecvf.com/content/ICCV2021/papers/Xing_Learning_Hierarchical_Graph_Neural_Networks_for_Image_Clustering_ICCV_2021_paper.pdf

@@ -46,9 +46,13 @@ http://proceedings.mlr.press/v95/guo18b/guo18b.pdf
 
 https://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Deep_Comprehensive_Correlation_Mining_for_Image_Clustering_ICCV_2019_paper.pdf
 
-- [ ] 2020 - Deep semantic clustering by partition confidence maximisation
+- [x] 2020 - Deep semantic clustering by partition confidence maximisation
 
 https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Deep_Semantic_Clustering_by_Partition_Confidence_Maximisation_CVPR_2020_paper.pdf
+
+- [x] 2020 - Deep clustering with a dynamic autoencoder: From reconstruction towards centroids construction
+
+https://arxiv.org/pdf/1901.07752.pdf
 
 ## Based on Self-Supervised Learning
 

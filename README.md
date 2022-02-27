@@ -34,7 +34,7 @@ http://proceedings.mlr.press/v70/yang17b/yang17b.pdf
 
 https://openaccess.thecvf.com/content_ICCV_2017/papers/Dizaji_Deep_Clustering_via_ICCV_2017_paper.pdf
 
-- [ ] 2017 - Deep adaptive image clustering
+- [x] 2017 - Deep adaptive image clustering
 
 https://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image_ICCV_2017_paper.pdf
 

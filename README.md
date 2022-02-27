@@ -54,7 +54,7 @@ https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Deep_Semantic_Clust
 
 https://arxiv.org/pdf/1901.07752.pdf
 
-## Based on Self-Supervised Learning
+## Based on Contrastive Learning
 
 - [ ] 2020 - Gatcluster: Self-supervised gaussian-attention network for image clustering
 

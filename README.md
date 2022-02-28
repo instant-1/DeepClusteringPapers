@@ -26,7 +26,7 @@ https://arxiv.org/pdf/1801.07648.pdf
 
 http://proceedings.mlr.press/v48/xieb16.pdf
 
-- [ ] 2017 - Towards k-means-friendly spaces: Simultaneous deep learning and clustering
+- [x] 2017 - Towards k-means-friendly spaces: Simultaneous deep learning and clustering
 
 http://proceedings.mlr.press/v70/yang17b/yang17b.pdf
 
@@ -56,23 +56,15 @@ https://arxiv.org/pdf/1901.07752.pdf
 
 ## Based on Contrastive Learning
 
-- [ ] 2020 - Gatcluster: Self-supervised gaussian-attention network for image clustering
-
-https://arxiv.org/pdf/2002.11863.pdf
-
-- [ ] 2020 - Deep image clustering with category-style representation
-
-https://arxiv.org/pdf/2007.10004.pdf
-
-- [ ] 2020 - Scan: Learning to classify images without labels
+- [x] 2020 - Scan: Learning to classify images without labels
 
 https://arxiv.org/pdf/2005.12320.pdf
 
-- [ ] 2021 - Contrastive clustering
+- [x] 2021 - Contrastive clustering
 
 https://www.aaai.org/AAAI21Papers/AAAI-1352.LiY.pdf
 
-- [ ] 2021 - Spice: Semantic pseudo-labeling for image clustering
+- [x] 2021 - Spice: Semantic pseudo-labeling for image clustering
 
 short-version https://arxiv.org/pdf/2103.09382v1.pdf
 
